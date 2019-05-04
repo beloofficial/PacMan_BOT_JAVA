@@ -1,0 +1,9 @@
+.border{
+    -fx-border-color:BLACK;
+}
+.borderr{
+    -fx-border-color:RED;
+}
+.fill{
+    -fx-background-color: linear-gradient(#dc9656,#2F4F4F);
+}
